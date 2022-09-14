@@ -1,0 +1,11 @@
+https://www.geeksforgeeks.org/differential-privacy-and-deep-learning/
+https://www.geeksforgeeks.org/30-minutes-to-machine-learning/
+https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/
+https://www.geeksforgeeks.org/removing-stop-words-nltk-python/
+https://www.geeksforgeeks.org/python-stemming-words-with-nltk/
+https://www.geeksforgeeks.org/python-lemmatization-with-nltk/
+https://www.geeksforgeeks.org/get-synonymsantonyms-nltk-wordnet-python/
+https://www.geeksforgeeks.org/python-implementation-of-movie-recommender-system/
+https://www.geeksforgeeks.org/avengers-endgame-and-deep-learning/
+https://www.geeksforgeeks.org/image-compression-using-k-means-clustering/
+https://www.geeksforgeeks.org/applying-multinomial-naive-bayes-to-nlp-problems/
